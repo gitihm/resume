@@ -1,0 +1,9 @@
+.imgprofile{
+    position: absolute;
+    border: 3px solid #fff;
+    top: 25%;
+    border-radius: 50%;
+}
+.circle{
+    border-radius: 50%;
+}
